@@ -1,0 +1,7 @@
+res://bullet.tscn
+res://player/player.gd
+res://player/stickman.tscn
+res://bullet.gd
+res://game.tscn
+res://main_menu.gd
+res://main_menu.tscn
